@@ -16,12 +16,15 @@ You can find a copy of the project online at: (to be added)
 - - - - - -
 #### Submitting Content
 
+We want/need your help! Please contribute to this project via GitHub (https://github.com/pwnwiki/dfirwiki). That allows us to get your project-ready content incorporated into the wiki fast. 
+
+You can fork and send pull requests with your proposed changes, or just open issues with details about the type of content that you would like to see added and we'll do our best to get it in. 
 
 - - - - - -
 Curators:
 
   * [@mubix](https://twitter.com/mubix) [gimmick:TwitterFollow](@mubix)
-
+  * [@theglennbarrett](https://twitter.com/theglennbarrett) [gimmick:TwitterFollow](@theglennbarrett)
 
 If you would like to become a curator, please contact [mubix@hak5.org](mailto:mubix@hak5.org)
 
