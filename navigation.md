@@ -2,38 +2,32 @@
 
 [Home](index.md)
 
-[Windows]()
+[Preparation]()
 
-  * [Index](windows/index.md)
+  * [Index](preparation/index.md)
 
   
-[Linux]()
+[Identification]()
 
-  * [Index](linux/index.md)
-
-
-[OSX]()
-
-  * [Index](osx/index.md)
+  * [Index](identification/index.md)
 
 
-[Mobile]()
+[Containment]()
 
-   * [Android](mobile/android.md)
-   * [iOS](mobile/ios.md)
+  * [Index](containment/index.md)
 
-[Other OSs]()
 
-  * [zOS](otheros/zos.md)
-  * [AS/400](otheros/as400.md)
-  * [Cisco](otheros/cisco.md)
-  * [Juniper](otheros/juniper.md)
+[Eradication]()
 
-[Scripting]()
+   * [Index](eradication/index.md)
 
-  * [Python](scripting/python.md)
-  * [Ruby](scripting/ruby.md)
-  * [Perl](scripting/perl.md)
+[Recovery]()
+
+  * [Index](recovery/index.md)
+
+[Lessons Learned]()
+
+  * [Index](lessonslearned/index.md)
   
 [References]()
 
