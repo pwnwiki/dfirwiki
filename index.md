@@ -5,7 +5,7 @@
 
 ### Live Online Copy:
 
-You can find a copy of the project online at: [DFIR Wiki](http://pwnwiki.io/dfirwiki)
+You can find a copy of the project online at: [http://pwnwiki.io/dfirwiki](http://pwnwiki.io/dfirwiki)
 
 ### Offline Use:
 
